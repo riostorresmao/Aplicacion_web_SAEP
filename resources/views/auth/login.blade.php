@@ -115,7 +115,7 @@
             <h2 class="mb-3 text-white">!</h2>
             <p class="lead"><i class="mdi mdi-format-quote-open"></i> I've been using your theme from the previous developer for our web app, once I knew new version is out, I immediately bought with no hesitation. Great themes, good documentation with lots of customization available and sample app that really fit our need. <i class="mdi mdi-format-quote-close"></i>
             </p>
-            <h5 class="text-white">
+            <h5 class="text-black">
                 - Fadlisaad (Ubold Admin User)
             </h5>
         </div> <!-- end auth-user-testimonial-->
