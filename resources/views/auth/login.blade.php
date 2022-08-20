@@ -122,7 +122,7 @@ box-shadow: none;
                     </div>
                 </div>
             </div>
-            </foote
+            </footer>
     </center>
 
     <div class="section"></div>
