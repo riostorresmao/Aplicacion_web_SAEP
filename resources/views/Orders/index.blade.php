@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    
+
 <h5>Listado de Entregas <a href="{{ route('orders.create') }}" class="btn">Crear nueva Entrega</a></h5>
 
 <table>
